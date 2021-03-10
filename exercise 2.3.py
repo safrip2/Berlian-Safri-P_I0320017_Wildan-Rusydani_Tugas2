@@ -8,3 +8,5 @@ print(f"luas lingkaran adalah {3.14 * (jari2 ** 2)} centimeter persegi")
 print(f"Keliling Lingkaran adalah {3.14 * 2 * jari2} centimeter")
 
 
+
+
