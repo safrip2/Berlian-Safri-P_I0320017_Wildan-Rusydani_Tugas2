@@ -12,7 +12,9 @@ print(35)
 print(0.5)
 
 #Hexadecimal
-print(9a)
+
+
+print("contoh mengubah ke kode hex dari 23 adalah " + hex(23))
 
 #Complex
 print(5j)
