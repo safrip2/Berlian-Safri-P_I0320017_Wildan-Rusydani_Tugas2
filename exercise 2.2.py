@@ -18,9 +18,10 @@ print(f"Biodata \n{nama_lengkap} \numur: {umur} \nhobi: {hobi} ")
 
 #contoh variabel lain
 inivariabel = "Halo"
-ini_variabel = "Hai"
-_inijugavariabel = "Hi"
-inivariabel222 = "oioioi"
+ini_variabel = "Hai "
+_inijugavariabel = "Hi "
+inivariabel222 = "oioioi "
+print(inivariabel222 + _inijugavariabel + ini_variabel + inivariabel)
 
 panjang = 10
 lebar = 9
