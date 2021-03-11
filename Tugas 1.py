@@ -1,5 +1,13 @@
-print("\t====what do you want?====\n\t\t1. calculate area of rectangle\n\t\t2. calculate area of circle\n\t\t3. calculate surface area of a cube\n\t\t4. convert C to F\n\t\t5. convert R to K")
-
+print(
+    """==================================================
+        1. calculate area of rectangle
+		2. calculate area of circle
+		3. calculate surface area of a cube
+		4. convert C to F
+		5. convert R to K
+==================================================
+    """
+)
 pilihan = input("select one of them: ")
 if pilihan.upper() == "1":
     panjang = float(input("input length: "))
