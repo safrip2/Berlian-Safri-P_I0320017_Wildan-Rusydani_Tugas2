@@ -33,8 +33,8 @@ elif need == 6:
     elsee()
 elif need == 7:
     from datetime import datetime
-    now = datetime.now()
-    current_time = now.strftime("%H:%M:%S")
+    tanggal = datetime.now()
+    current_time = tanggal.strftime("%H:%M:%S")
     print("now is", current_time)
     elsee()
 elif need == 8:
