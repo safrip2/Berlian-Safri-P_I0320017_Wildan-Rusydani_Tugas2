@@ -8,5 +8,6 @@ Repository ini berisi:
 >* Exercise 2.4
 >* Soal 1
 >* Soal 2 
+>* Soal 3
 
 WEEK 2
